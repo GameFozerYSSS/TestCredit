@@ -1,1 +1,2 @@
-# TestCredit
+# Probot ✨
+Epic Discord Bot
